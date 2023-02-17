@@ -1,6 +1,6 @@
 ## Coursera Labs
 
-This repository provides resources for creating custom images on Coursera Labs. It includes files to build and run images on Coursera Labs, including the source files to set up our (5) base images.
+This Repository provides resources for creating custom images on Coursera Labs. It includes files to build and run images on Coursera Labs, including the source files to set up our (5) base images.
 
 This resource may be particularly helpful for those looking to:
 
